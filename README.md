@@ -1,4 +1,4 @@
-LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改进的一个美赛$\LaTeX$模板
+LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改进的一个美赛\LaTeX模板
 
 由 @LeyuDame 改进
 
