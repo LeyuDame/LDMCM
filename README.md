@@ -11,3 +11,13 @@ LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改�
 - 增加了超链接
 
 GitHub 仓库地址：<https://github.com/LeyuDame/ldmcm>
+
+**效果图（部分）**
+
+<img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202401071811392.webp" alt="abstract" style="zoom: 25%;" />
+
+<img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202401071813739.webp" alt="contents" style="zoom:25%;" />
+
+<img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202401071814128.webp" alt="figures" style="zoom:25%;" />
+
+<img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202401071816265.webp" alt="algorithm" style="zoom: 25%;" />
