@@ -1,4 +1,4 @@
-LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改进的一个美赛LaTeX模板
+[LDMCM](https://github.com/LeyuDame/ldmcm)：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改进的一个美赛LaTeX模板
 
 由 @LeyuDame 改进
 
@@ -10,7 +10,7 @@ LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改�
 - 使用`\upcite`命令直接将引用符号上标
 - 增加了超链接
 
-[下载模板](https://codeload.github.com/LeyuDame/LDMCM/zip/refs/heads/main)
+[<u>下载LDMCM(zip)</u>](https://codeload.github.com/LeyuDame/LDMCM/zip/refs/heads/main)
 
 GitHub 仓库地址：<https://github.com/LeyuDame/ldmcm>
 
