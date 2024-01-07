@@ -10,9 +10,13 @@ LDMCM：基于[EasyMCM](https://github.com/xjtu-blacksmith/easymcm/releases)改�
 - 使用`\upcite`命令直接将引用符号上标
 - 增加了超链接
 
+[下载模板](https://codeload.github.com/LeyuDame/LDMCM/zip/refs/heads/main)
+
 GitHub 仓库地址：<https://github.com/LeyuDame/ldmcm>
 
 **效果图（部分）**
+
+[查看完整预览pdf](https://github.com/LeyuDame/LDMCM/blob/main/main.pdf)
 
 <img src="https://pauline.oss-cn-shenzhen.aliyuncs.com/img/202401071811392.webp" alt="abstract" style="zoom: 25%;" />
 
