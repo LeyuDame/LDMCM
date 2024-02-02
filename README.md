@@ -4,10 +4,17 @@
 
 由 [@LeyuDame](https://github.com/LeyuDame) 改进
 
-主要的改进有
+## 2024.02.02更新
+
+- 新增了LLM的引用方式。以ChatGPT为例：
+ 只需使用`\upcite{openai2024chatgpt}`命令即可（或`\cite{openai2024chatgpt}`），具体改动请参见`references.bib`文件
+- 新增了2024美赛要求的*Report on Use of AI*，具体改动请参见附录部分
+
+
+## 主要改进
 
 - ⭐引入`algorithm2e`宏包，添加了伪代码模板
-- Ⓜ️完善了附录代码的添加功能，直接将代码文件放在根目录下即可
+- Ⓜ️完善了附录代码的添加功能，直接将代码文件放在`code`目录下即可
 - 📑完善了`bibtex`的引用方法，可以将参考文献的`bib`文件直接放在根目录下自动生成参考文献
 - 🔖使用`\upcite`命令直接将引用符号上标
 - 🔗增加了超链接
