@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{4}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Literature Review}{5}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our work}{5}{subsection.0.1.3}%
+\contentsline {section}{\numberline {2}Preparation of the Models}{6}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Assumptions and Explanations}{6}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Notations}{7}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3}Data}{7}{subsection.0.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Data Collection}{7}{subsubsection.0.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Data Processing}{8}{subsubsection.0.2.3.2}%
+\contentsline {section}{\numberline {3}Model 1}{8}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Details about Model 1}{8}{subsection.0.3.1}%
+\contentsline {section}{\numberline {4}Model 2}{8}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Conclusion of Model 2}{8}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Commetary on Model 2}{10}{subsection.0.4.2}%
+\contentsline {section}{\numberline {5}Model 3}{11}{section.0.5}%
+\contentsline {section}{\numberline {6}Test the Model}{11}{section.0.6}%
+\contentsline {subsection}{\numberline {6.1}Sensitivity Analysis}{11}{subsection.0.6.1}%
+\contentsline {subsection}{\numberline {6.2}Robustness Analysis}{11}{subsection.0.6.2}%
+\contentsline {section}{\numberline {7}Conclusion}{11}{section.0.7}%
+\contentsline {subsection}{\numberline {7.1}Summary of Results}{11}{subsection.0.7.1}%
+\contentsline {subsection}{\numberline {7.2}Strengths}{11}{subsection.0.7.2}%
+\contentsline {subsection}{\numberline {7.3}Weaknesses and Improvements}{11}{subsection.0.7.3}%
+\contentsline {section}{Memorandum}{12}{section.0.8}%
+\contentsline {section}{References}{12}{section.1.8}%
+\contentsline {section}{Appendix A: Further on \LaTeX }{13}{section*.7}%
+\contentsline {section}{Appendix B: Program Codes}{13}{section*.8}%
+\contentsline {section}{Appendix C: Report on Use of AI}{13}{section*.9}%
+\contentsfinish 

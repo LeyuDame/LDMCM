@@ -5,4 +5,10 @@ Helmut Kopka and Patrick~W Daly.
 \newblock {\em Guide to LATEX}.
 \newblock Pearson Education, 2003.
 
+\bibitem{openai2024chatgpt}
+OpenAI.
+\newblock Chatgpt: Optimizing language models for dialogue, Feb 2024.
+\newblock Available online: \url{https://openai.com/chatgpt} (accessed on
+  February 2$^{nd}$, 2024).
+
 \end{thebibliography}

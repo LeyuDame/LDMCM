@@ -180,8 +180,8 @@ Figure \ref{subfigure} gives an example of subfigures. Figure \ref{subfig:left} 
 	%  \end{subfigure}
 	\qquad
 	%%让图片换行，这就是实现多行组图的简单原理
-  %%若需要搞一个2x3的组图就把上下的注释打开再添加图片就可以了
-  %%注意调整比例以及间距
+	%%若需要搞一个2x3的组图就把上下的注释打开再添加图片就可以了
+	%%注意调整比例以及间距
 	\begin{subfigure}[t]{0.4\textwidth}
 		\centering
 		\includegraphics[width=\textwidth]{img/example-image-a.pdf}
@@ -427,6 +427,7 @@ The instance of long and wide tables are shown in Table \ref{tb:longtable}.
 	\item The analysis of fish migration can be more accurate if we have more complete data;
 	\item Some approximate analysis methods are applied to model the management of fishing
 	      companies, which may lead to a situation contrary to the actual one  in extreme cases.
+	\item 此处引用了LLM.\upcite{openai2024chatgpt}
 \end{itemize}
 
 
@@ -494,8 +495,32 @@ The instance of long and wide tables are shown in Table \ref{tb:longtable}.
 	% MATLAB 代码示例
 	\lstinputlisting[language=matlab]{code/example.m}
 
+	\section{Appendix C: Report on Use of AI}
+	% 人工智能的报告
+	1. OpenAI ChatGPT (Nov 5, 2023 version, ChatGPT-4)
 
+	Query1: <insert the exact wording you input into the AI tool>
+	
+	Output: <insert the complete output from the AI tool>
 
+	2. OpenAI Ernie (Nov 5, 2023 version, Ernie 4.0)
+	
+	Query1: <insert the exact wording of any subsequent input into the AI tool>
+	
+	Output: <insert the complete output from the second query>
+	
+	3. Github CoPilot (Feb 3, 2024 version)
+	
+	Query1: <insert the exact wording you input into the AI tool>
+	
+	Output: <insert the complete output from the AI tool>
+	
+	4. Google Bard (Feb 2, 2024 version)
+	
+	Query: <insert the exact wording of your query>
+	
+	Output: <insert the complete output from the AI tool>
+	
 
 \end{subappendices}  % 附录内容结束
 
